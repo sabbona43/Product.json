@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "furniture",
+    "brand": "new model",
+    "price": 18000,
+    "preview": "../img/f.png",
+    "isAccessory": false
+  },
+  {
+    "id": 2,
+    "name": " Lg smart Tv",
+    "brand": "43inch",
+    "price": 30000,
+    "preview": "../img/lg.png",
+    "isAccessory": true
+  },
+  {
+    "id": 3,
+    "name": "bajaj",
+    "brand": "Tvs kingdeluxe",
+    "price": 20000,
+    "preview": "../img/B1.png",
+    "isAccessory": false
+  },
+  {
+    "id": 4,
+    "name": "Bajaj",
+    "brand": "Tvs",
+    "price": 15000,
+    "preview": "../img/B2.png",
+    "isAccessory": true
+  },
+  {
+    "id": 5,
+    "name": "laptop",
+    "brand": "hp 3i 1TB",
+    "price": 8000,
+    "preview": "../img/hp.png",
+    "isAccessory": true
+  },
+  {
+    "id": 6,
+    "name": "sabbona",
+    "brand": "Brand D",
+    "price": 2499,
+    "preview": "../img/1.png",
+    "isAccessory": true
+  }
+]
